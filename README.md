@@ -1,5 +1,9 @@
-# CDS_Extended
-2019 北京 CDS Extended 活动
+# CDS Extended
+2019 北京 Chrome Dev Summit Extended 活动
+
+时间: 2019 年 11 月 23 日下午 1:30 - 17:30
+
+地点: 中关村联合创业办公社
 
 相关链接：
 
@@ -8,6 +12,7 @@
 - 微信报名1: https://mp.weixin.qq.com/s/PnFLgrH57e94-5dU0-VNyA
 - 微信报名2: https://mp.weixin.qq.com/s/kZngsMv_CY18zFFxWkqKYQ
 - 微信总结:	https://mp.weixin.qq.com/s/zUmJaoIH0SuOrqWxZAA52Q
+- 现场照片: https://photos.app.goo.gl/A3JGyPXMgfynKcpK6
 
 讲义：
 
